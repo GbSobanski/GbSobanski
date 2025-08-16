@@ -3,7 +3,7 @@
 
 🎯 Aspiring Data Analyst | Market Research Analyst transitioning to Data Analytics | Based in Québec, Canada <br><br>
 
-
+---
 🔹 About Me <br>
 
 🌍 Originally from Brazil, now living in Québec, Canada
@@ -16,7 +16,7 @@
 
 🚀 Goal: Transition into a Data Analyst role in Canada within the next year<br><br>
 
-
+---
 🔹 Skills & Tools<br>
 
 Programming & Analysis: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
@@ -27,17 +27,17 @@ Data Handling: Excel (Advanced), Data Cleaning, Exploratory Data Analysis
 
 Other: Market Research, Business Insights, Storytelling with Data<br><br>
 
-
+---
 🔹 Projects<br>
 
 🛠️*Working on* <br><br>
 
-
+---
 🔹 Let's Connect<br>
 
 💼 [LinkedIn](https://www.linkedin.com/in/enggabrielsobanski/)<br><br>
 
-
+---
 ✨ Always learning, always curious — turning data into insights that drive decisions.
 
 <!--
